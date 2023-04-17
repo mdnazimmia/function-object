@@ -6,3 +6,7 @@ function startFan() {
 
 //call teh function
 startFan();
+console.log('Should be go');
+startFan();
+console.log('Ready for Lunch');
+startFan();
