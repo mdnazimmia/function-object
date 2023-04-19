@@ -24,3 +24,16 @@ rideCare();
 console.log('you can choose different car');
 rideCare();
 console.log('carefully ride');
+
+function rideCare() {
+    console.log('Registration to website');
+    console.log('Chose your car');
+    console.log('Pay and ride your Destination');
+}
+
+rideCare();
+console.log('Verify from your email');
+rideCare();
+console.log('you can choose different car');
+rideCare();
+console.log('carefully ride');
