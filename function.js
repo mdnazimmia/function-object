@@ -12,28 +12,11 @@
 // startFan();
 
 // funntion declaration
-function rideCare() {
-    console.log('Registration to website');
-    console.log('Chose your car');
-    console.log('Pay and ride your Destination');
+function sendMoney() {
+    console.log('got to the shop');
+    console.log('give full detials');
+    console.log('pay to the cash counter');
 }
 
-rideCare();
-console.log('Verify from your email');
-rideCare();
-console.log('you can choose different car');
-rideCare();
-console.log('carefully ride');
-
-function rideCare() {
-    console.log('Registration to website');
-    console.log('Chose your car');
-    console.log('Pay and ride your Destination');
-}
-
-rideCare();
-console.log('Verify from your email');
-rideCare();
-console.log('you can choose different car');
-rideCare();
-console.log('carefully ride');
+sendMoney();
+console.log('inform to the receiver');
