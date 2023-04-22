@@ -20,3 +20,11 @@ function sendMoney() {
 
 sendMoney();
 console.log('inform to the receiver');
+
+function goAirport() {
+    console.log('Call to the Rent a Car');
+    console.log('Fixed the rent');
+    console.log('go to your Destination');
+}
+
+goAirport();
