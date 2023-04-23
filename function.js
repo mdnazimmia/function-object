@@ -12,19 +12,11 @@
 // startFan();
 
 // funntion declaration
-function sendMoney() {
-    console.log('got to the shop');
-    console.log('give full detials');
-    console.log('pay to the cash counter');
+
+function buyCar() {
+    console.log('Save money from your monthly Saslary');
+    console.log('Choose your Dram Car');
+    console.log('Modify and buy your Car');
 }
-
-sendMoney();
-console.log('inform to the receiver');
-
-function goAirport() {
-    console.log('Call to the Rent a Car');
-    console.log('Fixed the rent');
-    console.log('go to your Destination');
-}
-
-goAirport();
+buyCar();
+console.log('Do not forget to take everythin');
