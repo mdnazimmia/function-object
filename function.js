@@ -20,3 +20,9 @@ function buyCar() {
 }
 buyCar();
 console.log('Do not forget to take everythin');
+
+function buyCar() {
+    console.log('Go to the showroom and select your Car');
+    console.log('Pay the bill and drive your destination');
+}
+buyCar();
