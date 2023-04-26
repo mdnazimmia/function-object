@@ -4,26 +4,10 @@
 // }
 // bringFood(200);
 
-function houseRent(money) {
-    console.log('Ready for new rent')
-    console.log(money);
+function payBill() {
+    console.log('go to the bank');
+    console.log('ask for your las bill');
+    console.log('pay your bill');
 }
-houseRent(610);
 
-function main(count) {
-    console.log('Please give me something for count')
-    console.log(count);
-}
-houseRent(1200);
-
-function houseRent(money) {
-    console.log('Ready for new rent')
-    console.log(money);
-}
-houseRent(610);
-
-function main(count) {
-    console.log('Please give me something for count')
-    console.log(count);
-}
-houseRent(1200);
+payBill(500);
